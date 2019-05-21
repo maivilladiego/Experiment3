@@ -9,7 +9,7 @@ int main()
 	char province[3][3] = {"A", "B", "C"};
 	int temp[Province][Day];
 
-	cout << "Enter all temperature for a week of Province 1, Province 2 and Province 3. ";
+	cout << "Enter all temperature for a week of Province A, Province B and Province C. ";
 	cout << endl;
 
 
